@@ -1,0 +1,11 @@
+D:\Design Patterns\EagerLoadingSingleton\EagerLoadingSingleton\bin\Debug\netcoreapp2.1\EagerLoadingSingleton.deps.json
+D:\Design Patterns\EagerLoadingSingleton\EagerLoadingSingleton\bin\Debug\netcoreapp2.1\EagerLoadingSingleton.runtimeconfig.json
+D:\Design Patterns\EagerLoadingSingleton\EagerLoadingSingleton\bin\Debug\netcoreapp2.1\EagerLoadingSingleton.runtimeconfig.dev.json
+D:\Design Patterns\EagerLoadingSingleton\EagerLoadingSingleton\bin\Debug\netcoreapp2.1\EagerLoadingSingleton.dll
+D:\Design Patterns\EagerLoadingSingleton\EagerLoadingSingleton\bin\Debug\netcoreapp2.1\EagerLoadingSingleton.pdb
+D:\Design Patterns\EagerLoadingSingleton\EagerLoadingSingleton\obj\Debug\netcoreapp2.1\EagerLoadingSingleton.csprojAssemblyReference.cache
+D:\Design Patterns\EagerLoadingSingleton\EagerLoadingSingleton\obj\Debug\netcoreapp2.1\EagerLoadingSingleton.csproj.CoreCompileInputs.cache
+D:\Design Patterns\EagerLoadingSingleton\EagerLoadingSingleton\obj\Debug\netcoreapp2.1\EagerLoadingSingleton.AssemblyInfoInputs.cache
+D:\Design Patterns\EagerLoadingSingleton\EagerLoadingSingleton\obj\Debug\netcoreapp2.1\EagerLoadingSingleton.AssemblyInfo.cs
+D:\Design Patterns\EagerLoadingSingleton\EagerLoadingSingleton\obj\Debug\netcoreapp2.1\EagerLoadingSingleton.dll
+D:\Design Patterns\EagerLoadingSingleton\EagerLoadingSingleton\obj\Debug\netcoreapp2.1\EagerLoadingSingleton.pdb

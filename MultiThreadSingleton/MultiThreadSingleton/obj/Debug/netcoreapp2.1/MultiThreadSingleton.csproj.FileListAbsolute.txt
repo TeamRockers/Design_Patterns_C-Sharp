@@ -1,0 +1,11 @@
+D:\Design Patterns\MultiThreadSingleton\MultiThreadSingleton\bin\Debug\netcoreapp2.1\MultiThreadSingleton.deps.json
+D:\Design Patterns\MultiThreadSingleton\MultiThreadSingleton\bin\Debug\netcoreapp2.1\MultiThreadSingleton.runtimeconfig.json
+D:\Design Patterns\MultiThreadSingleton\MultiThreadSingleton\bin\Debug\netcoreapp2.1\MultiThreadSingleton.runtimeconfig.dev.json
+D:\Design Patterns\MultiThreadSingleton\MultiThreadSingleton\bin\Debug\netcoreapp2.1\MultiThreadSingleton.dll
+D:\Design Patterns\MultiThreadSingleton\MultiThreadSingleton\bin\Debug\netcoreapp2.1\MultiThreadSingleton.pdb
+D:\Design Patterns\MultiThreadSingleton\MultiThreadSingleton\obj\Debug\netcoreapp2.1\MultiThreadSingleton.csprojAssemblyReference.cache
+D:\Design Patterns\MultiThreadSingleton\MultiThreadSingleton\obj\Debug\netcoreapp2.1\MultiThreadSingleton.csproj.CoreCompileInputs.cache
+D:\Design Patterns\MultiThreadSingleton\MultiThreadSingleton\obj\Debug\netcoreapp2.1\MultiThreadSingleton.AssemblyInfoInputs.cache
+D:\Design Patterns\MultiThreadSingleton\MultiThreadSingleton\obj\Debug\netcoreapp2.1\MultiThreadSingleton.AssemblyInfo.cs
+D:\Design Patterns\MultiThreadSingleton\MultiThreadSingleton\obj\Debug\netcoreapp2.1\MultiThreadSingleton.dll
+D:\Design Patterns\MultiThreadSingleton\MultiThreadSingleton\obj\Debug\netcoreapp2.1\MultiThreadSingleton.pdb

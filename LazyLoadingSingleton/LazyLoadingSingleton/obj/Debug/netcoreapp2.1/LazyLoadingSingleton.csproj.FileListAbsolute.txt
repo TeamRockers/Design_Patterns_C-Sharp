@@ -1,0 +1,11 @@
+D:\Design Patterns\LazyLoadingSingleton\LazyLoadingSingleton\bin\Debug\netcoreapp2.1\LazyLoadingSingleton.deps.json
+D:\Design Patterns\LazyLoadingSingleton\LazyLoadingSingleton\bin\Debug\netcoreapp2.1\LazyLoadingSingleton.runtimeconfig.json
+D:\Design Patterns\LazyLoadingSingleton\LazyLoadingSingleton\bin\Debug\netcoreapp2.1\LazyLoadingSingleton.runtimeconfig.dev.json
+D:\Design Patterns\LazyLoadingSingleton\LazyLoadingSingleton\bin\Debug\netcoreapp2.1\LazyLoadingSingleton.dll
+D:\Design Patterns\LazyLoadingSingleton\LazyLoadingSingleton\bin\Debug\netcoreapp2.1\LazyLoadingSingleton.pdb
+D:\Design Patterns\LazyLoadingSingleton\LazyLoadingSingleton\obj\Debug\netcoreapp2.1\LazyLoadingSingleton.csprojAssemblyReference.cache
+D:\Design Patterns\LazyLoadingSingleton\LazyLoadingSingleton\obj\Debug\netcoreapp2.1\LazyLoadingSingleton.csproj.CoreCompileInputs.cache
+D:\Design Patterns\LazyLoadingSingleton\LazyLoadingSingleton\obj\Debug\netcoreapp2.1\LazyLoadingSingleton.AssemblyInfoInputs.cache
+D:\Design Patterns\LazyLoadingSingleton\LazyLoadingSingleton\obj\Debug\netcoreapp2.1\LazyLoadingSingleton.AssemblyInfo.cs
+D:\Design Patterns\LazyLoadingSingleton\LazyLoadingSingleton\obj\Debug\netcoreapp2.1\LazyLoadingSingleton.dll
+D:\Design Patterns\LazyLoadingSingleton\LazyLoadingSingleton\obj\Debug\netcoreapp2.1\LazyLoadingSingleton.pdb

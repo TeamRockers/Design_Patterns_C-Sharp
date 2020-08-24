@@ -1,0 +1,10 @@
+D:\Design Patterns\Delegates\Delegates\bin\Debug\netcoreapp2.1\Delegates.deps.json
+D:\Design Patterns\Delegates\Delegates\bin\Debug\netcoreapp2.1\Delegates.runtimeconfig.json
+D:\Design Patterns\Delegates\Delegates\bin\Debug\netcoreapp2.1\Delegates.runtimeconfig.dev.json
+D:\Design Patterns\Delegates\Delegates\bin\Debug\netcoreapp2.1\Delegates.dll
+D:\Design Patterns\Delegates\Delegates\bin\Debug\netcoreapp2.1\Delegates.pdb
+D:\Design Patterns\Delegates\Delegates\obj\Debug\netcoreapp2.1\Delegates.csproj.CoreCompileInputs.cache
+D:\Design Patterns\Delegates\Delegates\obj\Debug\netcoreapp2.1\Delegates.AssemblyInfoInputs.cache
+D:\Design Patterns\Delegates\Delegates\obj\Debug\netcoreapp2.1\Delegates.AssemblyInfo.cs
+D:\Design Patterns\Delegates\Delegates\obj\Debug\netcoreapp2.1\Delegates.dll
+D:\Design Patterns\Delegates\Delegates\obj\Debug\netcoreapp2.1\Delegates.pdb
